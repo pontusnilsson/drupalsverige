@@ -1,9 +1,5 @@
 id: node.search_index
-<<<<<<< HEAD
 uuid: 2db819f0-c4df-419f-9b49-73f36c916054
-=======
-uuid: e697da5e-615b-431a-a601-1b15cc6d5330
->>>>>>> a952e0b607063ac5302ba86adbd4f5998d125af8
 label: 'Search index'
 targetEntityType: node
 status: false

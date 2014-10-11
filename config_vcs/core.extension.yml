@@ -10,11 +10,8 @@ module:
   contextual: 0
   datetime: 0
   dblog: 0
-<<<<<<< HEAD
   devel: 0
   devel_generate: 0
-=======
->>>>>>> a952e0b607063ac5302ba86adbd4f5998d125af8
   editor: 0
   entity_reference: 0
   field: 0

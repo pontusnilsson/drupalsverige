@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 uuid: 2c8feeb3-a9bb-4fcc-b700-e4fc3db30cff
 name: 'Drupal Sverige'
 mail: admin@example.com
-=======
-uuid: 7d5a8e34-674d-4aff-ab00-fdcf5d58b3fd
-name: drupalsverige.dev
-mail: pontus.nilsson2@wunderkraut.com
->>>>>>> a952e0b607063ac5302ba86adbd4f5998d125af8
 slogan: ''
 page:
   403: ''

@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 uuid: 3c5db278-8748-44ac-b800-e65f5cdda6ca
-=======
-uuid: c74ada0b-1752-42bc-8b35-53932bd55004
->>>>>>> a952e0b607063ac5302ba86adbd4f5998d125af8
 langcode: en
 status: true
 dependencies: {  }
@@ -108,7 +104,6 @@ permissions:
   - 'access user profiles'
   - 'access all views'
   - 'administer views'
-<<<<<<< HEAD
   - 'access devel information'
   - 'execute php code'
   - 'switch users'
@@ -121,5 +116,3 @@ permissions:
   - 'revert news revisions'
   - 'view news revisions'
   - 'administer devel_generate'
-=======
->>>>>>> a952e0b607063ac5302ba86adbd4f5998d125af8

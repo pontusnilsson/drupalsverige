@@ -1,9 +1,5 @@
 id: user.full
-<<<<<<< HEAD
 uuid: 16eff641-b2e3-4823-9200-f60ec8a7fee9
-=======
-uuid: 8803b508-277d-45ca-8600-aed1bcde0b7c
->>>>>>> a952e0b607063ac5302ba86adbd4f5998d125af8
 label: 'User account'
 targetEntityType: user
 status: false

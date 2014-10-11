@@ -1,9 +1,5 @@
 id: node.search_result
-<<<<<<< HEAD
 uuid: cddde5ab-09b4-4d5e-9b44-68eee7fecd8b
-=======
-uuid: 3f6c5a36-d6b4-4acd-9d3d-619f0ddee0ea
->>>>>>> a952e0b607063ac5302ba86adbd4f5998d125af8
 label: 'Search result highlighting input'
 targetEntityType: node
 status: false
