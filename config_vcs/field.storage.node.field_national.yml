@@ -1,0 +1,18 @@
+uuid: a4303729-e553-43b8-900c-126244f41825
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_national
+field_name: field_national
+entity_type: node
+type: boolean
+settings:
+  on_label: On
+  off_label: Off
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }

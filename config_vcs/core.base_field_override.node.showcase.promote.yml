@@ -1,0 +1,21 @@
+uuid: 2f214d18-eeef-4d4a-8207-7e0cb37f395d
+langcode: en
+status: true
+dependencies:
+  entity:
+    - node.type.showcase
+id: node.showcase.promote
+field_name: promote
+entity_type: node
+bundle: showcase
+label: Promote
+description: 'A boolean indicating whether the node should be displayed on the front page.'
+required: false
+translatable: true
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings: {  }
+third_party_settings: {  }
+field_type: boolean

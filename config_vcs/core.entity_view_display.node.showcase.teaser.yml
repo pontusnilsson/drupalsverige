@@ -1,0 +1,29 @@
+uuid: 7d61e1d5-fa66-4477-8500-c7ccaa831188
+langcode: en
+status: true
+dependencies:
+  entity:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.showcase.body
+    - node.type.showcase
+  module:
+    - text
+    - user
+id: node.showcase.teaser
+label: null
+targetEntityType: node
+bundle: showcase
+mode: teaser
+content:
+  links:
+    weight: 100
+  body:
+    label: hidden
+    type: text_summary_or_trimmed
+    weight: 101
+    settings:
+      trim_length: 600
+    third_party_settings: {  }
+hidden:
+  langcode: true
+third_party_settings: {  }
