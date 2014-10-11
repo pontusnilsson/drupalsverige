@@ -1,0 +1,11 @@
+uuid: 2c8feeb3-a9bb-4fcc-b700-e4fc3db30cff
+name: 'Drupal Sverige'
+mail: admin@example.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
