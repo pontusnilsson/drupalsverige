@@ -26,4 +26,7 @@ content:
     third_party_settings: {  }
 hidden:
   langcode: true
+  field_image: true
+  field_link: true
+  field_national: true
 third_party_settings: {  }
