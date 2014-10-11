@@ -8,6 +8,7 @@ dependencies:
     - field.field.node.news.field_news_image
     - node.type.news
   module:
+    - image
     - text
     - user
 id: node.news.teaser
@@ -16,16 +17,23 @@ targetEntityType: node
 bundle: news
 mode: teaser
 content:
+  field_news_image:
+    type: image
+    weight: 0
+    settings:
+      image_style: thumbnail
+      image_link: content
+    third_party_settings: {  }
+    label: hidden
   body:
     type: text_summary_or_trimmed
-    weight: 0
+    weight: 1
     settings:
       trim_length: 200
     third_party_settings: {  }
     label: hidden
   links:
-    weight: 1
+    weight: 2
 hidden:
   langcode: true
-  field_news_image: true
 third_party_settings: {  }

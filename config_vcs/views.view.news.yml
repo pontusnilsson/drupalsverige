@@ -77,12 +77,13 @@ display:
       style:
         type: html_list
       row:
-        type: 'entity:node'
+        type: fields
         options:
-          build_mode: teaser
-          links: true
-          view_mode: teaser
-          rendering_language: translation_language_renderer
+          default_field_elements: true
+          inline: {  }
+          separator: ''
+          hide_empty: false
+        provider: views
       fields:
         title:
           id: title
@@ -169,3 +170,12 @@ display:
         type: normal
         title: News
         menu_name: main
+  block_1:
+    display_plugin: block
+    id: block_1
+    display_title: Block
+    position: 2
+    provider: views
+    display_options:
+      field_langcode: '***LANGUAGE_language_content***'
+      field_langcode_add_to_query: null

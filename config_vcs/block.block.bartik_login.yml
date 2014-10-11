@@ -1,6 +1,6 @@
 uuid: 09098e46-d35f-4e31-a924-3602878d7ea8
 langcode: en
-status: true
+status: false
 dependencies:
   module:
     - user
@@ -8,8 +8,8 @@ dependencies:
     - bartik
 id: bartik_login
 theme: bartik
-region: sidebar_first
-weight: 0
+region: '-1'
+weight: -3
 provider: null
 plugin: user_login_block
 settings:
