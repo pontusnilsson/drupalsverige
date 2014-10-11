@@ -1,6 +1,0 @@
-<?php
-/**
- * @file
- * Profile specific.
- */
-
