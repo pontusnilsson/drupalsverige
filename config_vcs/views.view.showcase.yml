@@ -165,6 +165,7 @@ display:
       arguments: {  }
       field_langcode: '***LANGUAGE_language_content***'
       field_langcode_add_to_query: null
+      title: Showcase
   page_1:
     display_plugin: page
     id: page_1
