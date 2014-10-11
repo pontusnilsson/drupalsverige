@@ -15,7 +15,11 @@ weight: -6
 provider: null
 plugin: 'views_block:news-block_1'
 settings:
-  visibility: {  }
+  visibility:
+    request_path:
+      id: request_path
+      pages: news
+      negate: true
   id: 'views_block:news-block_1'
   label: ''
   provider: views

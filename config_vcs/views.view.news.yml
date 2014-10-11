@@ -170,6 +170,19 @@ display:
         type: normal
         title: News
         menu_name: main
+      style:
+        type: html_list
+        options: {  }
+      defaults:
+        style: false
+        row: false
+      row:
+        type: 'entity:node'
+        options:
+          relationship: none
+          view_mode: teaser
+          rendering_language: translation_language_renderer
+        provider: node
   block_1:
     display_plugin: block
     id: block_1
