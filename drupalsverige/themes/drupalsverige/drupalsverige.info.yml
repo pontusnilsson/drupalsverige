@@ -1,0 +1,36 @@
+name: DrupalSverige.se
+type: theme
+description: 'drupalsverige.se theme for D8'
+tags: 'multi-column, fluid, responsive, sans-serif, accessible'
+package: drupalsverige
+version: 1.0
+core: 8.x
+stylesheets:
+  screen:
+    - git st/drupalsverige.css
+regions:
+  content: Content
+  help: Help
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+  sidebar_first: 'First sidebar'
+
+#stylesheets-override:
+#  - css/components/vertical-tabs.css
+#  - css/components/jquery.ui.theme.css
+#  - css/components/dialog.theme.css
+#stylesheets-remove:
+#  - jquery.ui.dialog.css
+#quickedit_stylesheets:
+#  - css/components/quickedit.css
+#regions:
+#  content: Content
+#  help: Help
+#  page_top: 'Page top'
+#  page_bottom: 'Page bottom'
+#  sidebar_first: 'First sidebar'
+#regions_hidden:
+#  - sidebar_first
+
+settings:
+  shortcut_module_link: true
