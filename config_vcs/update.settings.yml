@@ -7,5 +7,9 @@ fetch:
   timeout: 30
 notification:
   emails:
+<<<<<<< HEAD
     - jose.jimenez@wunderkraut.com
+=======
+    - pontus.nilsson@wunderkraut.com
+>>>>>>> a952e0b607063ac5302ba86adbd4f5998d125af8
   threshold: all

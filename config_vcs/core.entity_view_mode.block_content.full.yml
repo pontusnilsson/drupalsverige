@@ -1,5 +1,9 @@
 id: block_content.full
+<<<<<<< HEAD
 uuid: 3199b22a-1714-47a9-a707-7e6e88876c45
+=======
+uuid: 5f910448-14c1-498e-9f07-7fe868da5b63
+>>>>>>> a952e0b607063ac5302ba86adbd4f5998d125af8
 label: Full
 targetEntityType: block_content
 status: false

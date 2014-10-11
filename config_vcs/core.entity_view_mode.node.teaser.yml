@@ -1,5 +1,9 @@
 id: node.teaser
+<<<<<<< HEAD
 uuid: 8bb7632e-cf4e-4f58-b605-05e4154a3642
+=======
+uuid: 33eb81a6-8efc-47e0-8909-9fa2d5e33ee2
+>>>>>>> a952e0b607063ac5302ba86adbd4f5998d125af8
 label: Teaser
 targetEntityType: node
 status: true

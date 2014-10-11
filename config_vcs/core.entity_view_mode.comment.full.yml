@@ -1,5 +1,9 @@
 id: comment.full
+<<<<<<< HEAD
 uuid: 9ba67f38-728b-41ab-b401-1a5a02ec40b5
+=======
+uuid: 616255f8-c8d8-4988-bf55-85020d2531f4
+>>>>>>> a952e0b607063ac5302ba86adbd4f5998d125af8
 label: 'Full comment'
 targetEntityType: comment
 status: false

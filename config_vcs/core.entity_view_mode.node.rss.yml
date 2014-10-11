@@ -1,5 +1,9 @@
 id: node.rss
+<<<<<<< HEAD
 uuid: 41bc325e-7bdd-4f2b-af07-7f9781d2aaef
+=======
+uuid: c2dde397-41e8-47a6-bb4d-775f3ff60f21
+>>>>>>> a952e0b607063ac5302ba86adbd4f5998d125af8
 label: RSS
 targetEntityType: node
 status: false

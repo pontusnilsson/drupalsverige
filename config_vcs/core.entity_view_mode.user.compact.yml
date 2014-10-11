@@ -1,5 +1,9 @@
 id: user.compact
+<<<<<<< HEAD
 uuid: dd02df39-2953-45bb-ae3c-60a626aaf5fa
+=======
+uuid: 4240e715-724e-46fa-b900-c7b329dbb719
+>>>>>>> a952e0b607063ac5302ba86adbd4f5998d125af8
 label: Compact
 targetEntityType: user
 status: true
