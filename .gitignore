@@ -3,3 +3,4 @@
 drupalsverige/*
 !drupalsverige/platform.make
 !drupalsverige/profiles/drupalsverige
+!drupalsverige/themes
