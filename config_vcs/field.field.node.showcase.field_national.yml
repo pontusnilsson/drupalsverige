@@ -1,0 +1,22 @@
+uuid: 340fd1f7-e1e6-428e-a400-d3a6814a113f
+langcode: en
+status: true
+dependencies:
+  entity:
+    - field.storage.node.field_national
+    - node.type.showcase
+id: node.showcase.field_national
+field_name: field_national
+entity_type: node
+bundle: showcase
+label: National
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings: {  }
+third_party_settings: {  }
+field_type: boolean

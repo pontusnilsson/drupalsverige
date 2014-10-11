@@ -1,0 +1,22 @@
+uuid: 5fd29fec-695e-45c5-a309-09eae3ea836e
+langcode: en
+status: true
+dependencies:
+  entity:
+    - field.storage.node.field_link
+    - node.type.showcase
+id: node.showcase.field_link
+field_name: field_link
+entity_type: node
+bundle: showcase
+label: Link
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  link_type: '16'
+  title: '0'
+third_party_settings: {  }
+field_type: link
