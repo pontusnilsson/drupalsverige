@@ -1,0 +1,16 @@
+name: 'Drupal Sverige News'
+type: module
+description: 'Drupal Sverige News'
+package: Drupal Sverige
+core: 8.x
+config_devel:
+  - block.block.views_block__news_block_1
+  - core.base_field_override.node.news.promote
+  - core.entity_form_display.node.news.default
+  - core.entity_view_display.node.news.default
+  - core.entity_view_display.node.news.teaser
+  - field.field.node.news.body
+  - field.field.node.news.field_news_image
+  - field.storage.node.field_news_image
+  - node.type.news
+  - views.view.news
