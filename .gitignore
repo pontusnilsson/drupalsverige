@@ -1,3 +1,5 @@
 .vagrant/
 .idea/
-drupalsverige/
+drupalsverige/*
+!drupalsverige/platform.make
+!drupalsverige/profiles/drupalsverige
