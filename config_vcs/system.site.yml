@@ -1,0 +1,11 @@
+uuid: 7d5a8e34-674d-4aff-ab00-fdcf5d58b3fd
+name: drupalsverige.dev
+mail: pontus.nilsson2@wunderkraut.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
